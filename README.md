@@ -1,3 +1,13 @@
+This is a website made with NextJs and Tailwind Css.
+
+To run the file you can download it and after downloading the modules you can use the credentials as admin and password to login.
+
+The challenges I faced during the assignment was the authentication for opening the dashboard which was really interesting and tough to crack using nextauth.
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
